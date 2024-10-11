@@ -12,4 +12,8 @@
         contenido de tarjeta 2
         </x-Card>
     
+<x-Alert tipo="danger">Rojo</x-Alert>
+
+<x-Alert tipo="warning">Amarillo</x-Alert>
+
 @endsection
